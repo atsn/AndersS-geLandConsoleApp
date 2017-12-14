@@ -9,7 +9,8 @@ namespace AndersSøgeLand
     class Program
     {
         static void Main(string[] args)
-        {
+        {           
+            Serach.SearchNow();
         }
     }
 }
